@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4100d56c49779000" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GPSMaps\MapActivity.cs">
+    <Files>
+      <File FileName="GPSMaps\MainActivity.cs" Line="42" Column="42" />
+      <File FileName="..\..\..\..\Users\savio.azavedo\AppData\Local\Xamarin\Android.Support.v7.AppCompat\22.0.0\embedded\res\values-v11\values.xml" Line="84" Column="84" />
+      <File FileName="GPSMaps\MapActivity.cs" Line="19" Column="19" />
+      <File FileName="GPSMaps\Properties\AndroidManifest.xml" Line="12" Column="12" />
+      <File FileName="GPSMaps\packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GPSMaps" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
+            </Node>
+            <Node name="MapActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GPSMaps MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

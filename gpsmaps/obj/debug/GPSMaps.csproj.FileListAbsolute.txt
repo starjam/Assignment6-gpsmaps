@@ -1,0 +1,136 @@
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\GPSMaps.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\GPSMaps.pdb
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\GPSMaps.dll.mdb
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps.apk
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps-Signed.apk
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\GooglePlayServicesLib.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\GPSMaps.dll
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\GPSMaps.pdb
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\android\bin\gpsmaps.gpsmaps.apk
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\res\layout\main.xml
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\res\values\strings.xml
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\res\drawable\icon.png
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\res\layout\map.xml
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\R.cs.flag
+C:\gitHub\Xamarin---Android\Misc\GPSMaps\GPSMaps\obj\Debug\uploadflags.txt
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\GPSMaps.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\GPSMaps.pdb
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps.apk
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps-Signed.apk
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\GooglePlayServicesLib.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Analytics.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppInvite.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppState.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Cast.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Drive.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Fitness.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Games.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Identity.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Nearby.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Panorama.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.SafetyNet.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wallet.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wearable.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\GPSMaps.dll
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\GPSMaps.pdb
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\android\bin\gpsmaps.gpsmaps.apk
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\res\layout\main.xml
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\res\values\strings.xml
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\res\drawable\icon.png
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\res\layout\map.xml
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\R.cs.flag
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\uploadflags.txt
+C:\x\Xamarin---Android-master\Class B16\gpsmaps\GPSMaps\obj\Debug\GPSMaps.csprojResolveAssemblyReference.cache
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\GPSMaps.csprojResolveAssemblyReference.cache
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\GPSMaps.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\GPSMaps.pdb
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps.apk
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\gpsmaps.gpsmaps-Signed.apk
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\GooglePlayServicesLib.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Analytics.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppInvite.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppState.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Cast.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Drive.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Fitness.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Games.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Identity.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Nearby.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Panorama.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.SafetyNet.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wallet.dll
+C:\x\0DIR\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wearable.dll
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\GPSMaps.dll
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\GPSMaps.pdb
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\android\bin\gpsmaps.gpsmaps.apk
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\layout\info_window.xml
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\layout\main.xml
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\values\strings.xml
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\drawable\icon.png
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\layout\map.xml
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\res\drawable\rightarrow.jpg
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\R.cs.flag
+C:\x\0DIR\gpsmaps\GPSMaps\obj\Debug\uploadflags.txt
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\GPSMaps.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\GPSMaps.pdb
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\GooglePlayServicesLib.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Analytics.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppInvite.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.AppState.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Cast.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Drive.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Fitness.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Games.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Identity.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Nearby.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Panorama.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.SafetyNet.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wallet.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\Xamarin.GooglePlayServices.Wearable.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\GPSMaps.dll
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\GPSMaps.pdb
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\layout\info_window.xml
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\layout\main.xml
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\values\strings.xml
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\drawable\icon.png
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\layout\map.xml
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\res\drawable\rightarrow.jpg
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\R.cs.flag
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\uploadflags.txt
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\GPSMaps.csprojResolveAssemblyReference.cache
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\gpsdemo17.gpsmaps.apk
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\bin\Debug\gpsdemo17.gpsmaps-Signed.apk
+C:\x\LESSON 17-21 GPS_MAPS_TabLayouts\gpsmaps\GPSMaps\obj\Debug\android\bin\gpsdemo17.gpsmaps.apk
